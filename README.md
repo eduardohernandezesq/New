@@ -1,2 +1,4 @@
 # New
-Hola Linux //Primer camnio en Git
+Hola Linux //Primer cambio en Git
+Ahora hago mi primer cambio desde GitBash
+
